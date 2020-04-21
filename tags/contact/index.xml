@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>contact on Coronatechnologie.nl</title>
-    <link>https://coronatechnologie.nl/tags/contact/</link>
-    <description>Recent content in contact on Coronatechnologie.nl</description>
+    <title>contact on CT.nl</title>
+    <link>/tags/contact/</link>
+    <description>Recent content in contact on CT.nl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
     
-	<atom:link href="https://coronatechnologie.nl/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bezoekers voor zorginstellingen? Geen probleem.</title>
-      <link>https://coronatechnologie.nl/nieuws/bezoekers-voor-zorginstellingen-geen-probleem/</link>
+      <link>/nieuws/bezoekers-voor-zorginstellingen-geen-probleem/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/bezoekers-voor-zorginstellingen-geen-probleem/</guid>
+      <guid>/nieuws/bezoekers-voor-zorginstellingen-geen-probleem/</guid>
       <description>Een veelvoorkomend probleem tijdens deze crisis is het gevoel van eenzaamheid. Ouderen die in zorginstellingen wonen, worden hier meestal nog harder door getroffen.
-De ontwikkelaars van ‘Quarantainer’ brachten letterlijk twee componenten bij elkaar: de situatie van in een quarantaine zijn met een zeecontainer. Door deze om te bouwen met een huiselijke inrichting, kunnen ouderen alsnog hun kinderen en kleinkinderen blijven ontvangen. Het bezoekersgedeelte is afgescheiden met transparant glas om besmettingen te voorkomen.</description>
+De ontwikkelaars van ‘Quarantainer’ brachten letterlijk twee componenten bij elkaar: de situatie van in een quarantaine zijn met een zeecontainer.</description>
     </item>
     
     <item>
       <title>Fysiek contact met een anti-coronadeur</title>
-      <link>https://coronatechnologie.nl/nieuws/fysiek-contact-met-een-anti-coronadeur/</link>
+      <link>/nieuws/fysiek-contact-met-een-anti-coronadeur/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/fysiek-contact-met-een-anti-coronadeur/</guid>
-      <description>Fysiek contact wordt ten strengste afgeraden. Zelfs je opa en of oma die in een zorginstelling verblijven, moeten hieraan geloven. Maar in deze toch al moeilijke tijden, is dat niet wat opa’s en oma’s het meest naar verlangen?
-Het bedrijf Holland Shielding Systems BV uit Dordrecht ontwikkelde in Dordrecht de zogenaamde anti-coronadeur. Het is een deur waardoor je je handen kan steken in een soort handschoen. Door het gebruik van additionele filters kunnen er ook geen virusdelen door kiertjes ontsnappen.</description>
+      <guid>/nieuws/fysiek-contact-met-een-anti-coronadeur/</guid>
+      <description>Fysiek contact wordt ten strengste afgeraden. Zelfs je opa en of oma die in een zorginstelling verblijven, moeten hieraan geloven. Maar in deze toch al moeilijke tijden, is dat niet wat opa’s en oma’s het meest naar verlangen?</description>
     </item>
     
   </channel>

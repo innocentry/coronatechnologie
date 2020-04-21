@@ -1,44 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mondkapjes on Coronatechnologie.nl</title>
-    <link>https://coronatechnologie.nl/categories/mondkapjes/</link>
-    <description>Recent content in mondkapjes on Coronatechnologie.nl</description>
+    <title>mondkapjes on CT.nl</title>
+    <link>/categories/mondkapjes/</link>
+    <description>Recent content in mondkapjes on CT.nl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
     
-	<atom:link href="https://coronatechnologie.nl/categories/mondkapjes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/mondkapjes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bestel geteste en gecertificeerde mondkapjes</title>
-      <link>https://coronatechnologie.nl/nieuws/bestel-geteste-en-gecertificeerde-mondkapjes-bestellen/</link>
+      <link>/nieuws/bestel-geteste-en-gecertificeerde-mondkapjes-bestellen/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/bestel-geteste-en-gecertificeerde-mondkapjes-bestellen/</guid>
-      <description>Lange tijd ontbrak het aan een betrouwbaar platform waar mondkapjes besteld konden worden zonder dat daar woekerprijzen tegenover stonden. Dankzij de samenwerking tussen KLM, Flexport en Coolblue, kunnen nu ook de kleinere zorginstellingen zoals huisartsen, verloskundigen en verzorgingstehuizen mondkapjes bestellen. Voorheen moesten zij vaak voorrang verlenen aan ziekenhuizen bij de verdeling van beschermingsmiddelen vanuit de overheid.
-Elk van deze Nederlandse partijen brengt zijn of haar expertise in deze samenwerking. Flexport verzorgt het ophalen van de goederen en de begeleiding bij het logistieke proces, KLM zet haar vliegtuigen in en CoolBlue zorgt voor het bestelproces en de afhandeling van de bestelling binnen Nederland.</description>
+      <guid>/nieuws/bestel-geteste-en-gecertificeerde-mondkapjes-bestellen/</guid>
+      <description>Lange tijd ontbrak het aan een betrouwbaar platform waar mondkapjes besteld konden worden zonder dat daar woekerprijzen tegenover stonden. Dankzij de samenwerking tussen KLM, Flexport en Coolblue, kunnen nu ook de kleinere zorginstellingen zoals huisartsen, verloskundigen en verzorgingstehuizen mondkapjes bestellen.</description>
     </item>
     
     <item>
       <title>Hoe kan je mondkapjes hergebruiken?</title>
-      <link>https://coronatechnologie.nl/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</link>
+      <link>/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</guid>
-      <description>Vele zorginstellingen proberen het gebrek aan mondkapjes op een creatieve manier op te lossen door deze her te gebruiken of door een inzamelingsactie te starten. In beide gevallen zullen deze grondig gereinigd moeten worden. Hoe kan dit op een verantwoorde manier gebeuren?
-Daan Hoek kwam in Haarlem met de oplossing om mondkapjes met ultraviolet (UV) licht te bestralen. Bestraling met UV licht is een techniek dat al langer wordt gebruikt om water, lucht en oppervlaktes te ontsmetten.</description>
+      <guid>/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</guid>
+      <description>Vele zorginstellingen proberen het gebrek aan mondkapjes op een creatieve manier op te lossen door deze her te gebruiken of door een inzamelingsactie te starten. In beide gevallen zullen deze grondig gereinigd moeten worden. Hoe kan dit op een verantwoorde manier gebeuren?</description>
     </item>
     
     <item>
       <title>Maak je eigen gezichtsmasker</title>
-      <link>https://coronatechnologie.nl/nieuws/maak-je-eigen-gezichtsmasker/</link>
+      <link>/nieuws/maak-je-eigen-gezichtsmasker/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/maak-je-eigen-gezichtsmasker/</guid>
+      <guid>/nieuws/maak-je-eigen-gezichtsmasker/</guid>
       <description>Omdat het coronavirus niet alleen via de mond en neus kan binnendringen, maar ook via je ogen, is een mondkapje niet altijd afdoende. Daarom zijn er beschermingen ontwikkeld die een stapje verder gaan.
-Jan van Tienhoven ontwikkelde in Dordrecht een complete hoofdkap dat door middel van een luchtpomp zorgt voor frisse luchttoevoer. Het voordeel voor artsen is dat dit zorgt voor een langer draagcomfort alsmede het feit dat patiënten hun gezicht kunnen blijven zien.</description>
+Jan van Tienhoven ontwikkelde in Dordrecht een complete hoofdkap dat door middel van een luchtpomp zorgt voor frisse luchttoevoer.</description>
     </item>
     
   </channel>

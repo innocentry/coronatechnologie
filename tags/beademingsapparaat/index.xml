@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>beademingsapparaat on Coronatechnologie.nl</title>
-    <link>https://coronatechnologie.nl/tags/beademingsapparaat/</link>
-    <description>Recent content in beademingsapparaat on Coronatechnologie.nl</description>
+    <title>beademingsapparaat on CT.nl</title>
+    <link>/tags/beademingsapparaat/</link>
+    <description>Recent content in beademingsapparaat on CT.nl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
     
-	<atom:link href="https://coronatechnologie.nl/tags/beademingsapparaat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/beademingsapparaat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>De strijd tegen het tekort aan beademingsapparaten</title>
-      <link>https://coronatechnologie.nl/nieuws/de-strijd-tegen-het-tekort-aan-beademingsapparaten/</link>
+      <link>/nieuws/de-strijd-tegen-het-tekort-aan-beademingsapparaten/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/de-strijd-tegen-het-tekort-aan-beademingsapparaten/</guid>
+      <guid>/nieuws/de-strijd-tegen-het-tekort-aan-beademingsapparaten/</guid>
       <description>In de strijd tegen het tekort aan beademingsapparaten, zijn er verschillende Nederlandse partijen in de bres gesprongen met uiteenlopende oplossingen voor als het echt zover dreigt te komen.
-Een team van studenten van de TU Delft ontwikkelde binnen drie weken tijd de AIRone. Zij hielden vanaf het begin al rekening met het feit dat onderdelen wereldwijd erg gevraagd zijn en hun ontwerp bestaat dan ook uit louter onderdelen die in Nederland beschikbaar zijn.</description>
+Een team van studenten van de TU Delft ontwikkelde binnen drie weken tijd de AIRone.</description>
     </item>
     
     <item>
       <title>Snorkelmaskers oplossing voor tekort aan maskers</title>
-      <link>https://coronatechnologie.nl/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</link>
+      <link>/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</guid>
+      <guid>/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</guid>
       <description>Het volgende voorbeeld laat zien dat we niet altijd op zoek hoeven naar nieuwe technologie, maar het aanpassen van bestaande technologie kan ook veel winst opleveren.
-Een team van Nederlandse anesthesisten, bedrijven en universiteiten hebben zich samen ingespannen om snorkelmaskers om te bouwen zodat deze geschikt zijn voor het gebruik in operatiekamers door deze aan te sluiten op een filtersysteem dat vrijwel alle bacteriën en virussen eruit filtert.
-Dezelfde maskers zijn bij Universiteit Twente omgetoverd tot beademingsapparatuur.</description>
+Een team van Nederlandse anesthesisten, bedrijven en universiteiten hebben zich samen ingespannen om snorkelmaskers om te bouwen zodat deze geschikt zijn voor het gebruik in operatiekamers door deze aan te sluiten op een filtersysteem dat vrijwel alle bacteriën en virussen eruit filtert.</description>
     </item>
     
   </channel>

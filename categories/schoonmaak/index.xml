@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>schoonmaak on Coronatechnologie.nl</title>
-    <link>https://coronatechnologie.nl/categories/schoonmaak/</link>
-    <description>Recent content in schoonmaak on Coronatechnologie.nl</description>
+    <title>schoonmaak on CT.nl</title>
+    <link>/categories/schoonmaak/</link>
+    <description>Recent content in schoonmaak on CT.nl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
     
-	<atom:link href="https://coronatechnologie.nl/categories/schoonmaak/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/schoonmaak/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Een veilige manier om deuren te openen</title>
-      <link>https://coronatechnologie.nl/nieuws/een-veilige-manier-om-deuren-te-openen/</link>
+      <link>/nieuws/een-veilige-manier-om-deuren-te-openen/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/een-veilige-manier-om-deuren-te-openen/</guid>
-      <description>Je ontkomt er niet aan om deuren te moeten openen die al dat niet besmet kunnen zijn met het coronavirus. Toch is er naast het gebruik van handschoenen, nog een veilige manier om deuren te openen.
-Thys Metz, een oud defensie-medewerker, creëerde een speciale deuropener waarmee hij in eerste instantie zijn oma hielp, maar inmiddels ook dienstdoeners van de politie op weg helpt door middel van 500 openers die zijn vervaardigd met een 3D-printer.</description>
+      <guid>/nieuws/een-veilige-manier-om-deuren-te-openen/</guid>
+      <description>Je ontkomt er niet aan om deuren te moeten openen die al dat niet besmet kunnen zijn met het coronavirus. Toch is er naast het gebruik van handschoenen, nog een veilige manier om deuren te openen.</description>
     </item>
     
   </channel>
