@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>maskers on CT.nl</title>
-    <link>/tags/maskers/</link>
-    <description>Recent content in maskers on CT.nl</description>
+    <title>maskers on Coronatechnologie.nl</title>
+    <link>https://coronatechnologie.nl/tags/maskers/</link>
+    <description>Recent content in maskers on Coronatechnologie.nl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
     
-	<atom:link href="/tags/maskers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coronatechnologie.nl/tags/maskers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Maak je eigen gezichtsmasker</title>
-      <link>/nieuws/maak-je-eigen-gezichtsmasker/</link>
+      <link>https://coronatechnologie.nl/nieuws/maak-je-eigen-gezichtsmasker/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>/nieuws/maak-je-eigen-gezichtsmasker/</guid>
+      <guid>https://coronatechnologie.nl/nieuws/maak-je-eigen-gezichtsmasker/</guid>
       <description>Omdat het coronavirus niet alleen via de mond en neus kan binnendringen, maar ook via je ogen, is een mondkapje niet altijd afdoende. Daarom zijn er beschermingen ontwikkeld die een stapje verder gaan.
-Jan van Tienhoven ontwikkelde in Dordrecht een complete hoofdkap dat door middel van een luchtpomp zorgt voor frisse luchttoevoer.</description>
+Jan van Tienhoven ontwikkelde in Dordrecht een complete hoofdkap dat door middel van een luchtpomp zorgt voor frisse luchttoevoer. Het voordeel voor artsen is dat dit zorgt voor een langer draagcomfort alsmede het feit dat patiënten hun gezicht kunnen blijven zien.</description>
     </item>
     
     <item>
       <title>Snorkelmaskers oplossing voor tekort aan maskers</title>
-      <link>/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</link>
+      <link>https://coronatechnologie.nl/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</guid>
+      <guid>https://coronatechnologie.nl/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</guid>
       <description>Het volgende voorbeeld laat zien dat we niet altijd op zoek hoeven naar nieuwe technologie, maar het aanpassen van bestaande technologie kan ook veel winst opleveren.
-Een team van Nederlandse anesthesisten, bedrijven en universiteiten hebben zich samen ingespannen om snorkelmaskers om te bouwen zodat deze geschikt zijn voor het gebruik in operatiekamers door deze aan te sluiten op een filtersysteem dat vrijwel alle bacteriën en virussen eruit filtert.</description>
+Een team van Nederlandse anesthesisten, bedrijven en universiteiten hebben zich samen ingespannen om snorkelmaskers om te bouwen zodat deze geschikt zijn voor het gebruik in operatiekamers door deze aan te sluiten op een filtersysteem dat vrijwel alle bacteriën en virussen eruit filtert.
+Dezelfde maskers zijn bij Universiteit Twente omgetoverd tot beademingsapparatuur.</description>
     </item>
     
   </channel>

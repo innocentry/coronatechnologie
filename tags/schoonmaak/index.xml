@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>schoonmaak on CT.nl</title>
-    <link>/tags/schoonmaak/</link>
-    <description>Recent content in schoonmaak on CT.nl</description>
+    <title>schoonmaak on Coronatechnologie.nl</title>
+    <link>https://coronatechnologie.nl/tags/schoonmaak/</link>
+    <description>Recent content in schoonmaak on Coronatechnologie.nl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
     
-	<atom:link href="/tags/schoonmaak/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coronatechnologie.nl/tags/schoonmaak/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hoe kan je mondkapjes hergebruiken?</title>
-      <link>/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</link>
+      <link>https://coronatechnologie.nl/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</guid>
-      <description>Vele zorginstellingen proberen het gebrek aan mondkapjes op een creatieve manier op te lossen door deze her te gebruiken of door een inzamelingsactie te starten. In beide gevallen zullen deze grondig gereinigd moeten worden. Hoe kan dit op een verantwoorde manier gebeuren?</description>
+      <guid>https://coronatechnologie.nl/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</guid>
+      <description>Vele zorginstellingen proberen het gebrek aan mondkapjes op een creatieve manier op te lossen door deze her te gebruiken of door een inzamelingsactie te starten. In beide gevallen zullen deze grondig gereinigd moeten worden. Hoe kan dit op een verantwoorde manier gebeuren?
+Daan Hoek kwam in Haarlem met de oplossing om mondkapjes met ultraviolet (UV) licht te bestralen. Bestraling met UV licht is een techniek dat al langer wordt gebruikt om water, lucht en oppervlaktes te ontsmetten.</description>
     </item>
     
   </channel>
