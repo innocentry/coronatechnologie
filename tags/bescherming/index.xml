@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bescherming on Coronatechnologie.nl</title>
+    <link>/tags/bescherming/</link>
+    <description>Recent content in bescherming on Coronatechnologie.nl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/bescherming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Print je eigen gezichtsmasker</title>
+      <link>/nieuws/3d-gezichtsmaskers/</link>
+      <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
+      
+      <guid>/nieuws/3d-gezichtsmaskers/</guid>
+      <description>Ultimaker ondersteunt ziekenhuizen met 3D-printen in coronacrisisOmdat landen wereldwijd voor de uitdaging staan om de COVID-19 pandemie te beheersen, stelt Ultimaker zijn wereldwijde netwerk van 3D-print hubs, experts en ontwerpers direct beschikbaar aan ziekenhuizen. 3D-printen kan uitkomst bieden voor tools en applicaties die ziekenhuizen momenteel tekortkomen en met deze technologie snel geproduceerd kunnen worden.Via Ultimaker.com kunnen ziekenhuizen nu in een oogopslag zien welke beschikbare 3D-print hubs in de buurt zitten.Daarnaast kan er direct contact met Ultimaker en lokale 3D-print experts en ontwerpers opgenomen worden.</description>
+    </item>
+    
+  </channel>
+</rss>
