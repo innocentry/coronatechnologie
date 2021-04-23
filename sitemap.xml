@@ -1,264 +1,190 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://coronatechnologie.nl/tags/beademingsapparaat/</loc>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/beademingsapparaat/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/beademingsapparaat/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/bestel-geteste-en-gecertificeerde-mondkapjes-bestellen/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/bezoekers-voor-zorginstellingen-geen-probleem/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/contact/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/creatief-ondernemen-drive-ins/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/de-strijd-tegen-het-tekort-aan-beademingsapparaten/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/een-veilige-manier-om-deuren-te-openen/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/fysiek-contact-met-een-anti-coronadeur/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/geen-overvolle-winkels/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/hygi%C3%ABne/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/hygi%C3%ABne/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/maak-je-eigen-gezichtsmasker/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/maskers/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/maskers/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/met-schone-handen-naar-de-winkel/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/mondkapjes/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/mondkapjes/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/ondernemen/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/ondernemen/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/ouderen/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/reiniging/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/schone-winkelwagens-tijdens-je-supermarktbezoek/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/schoonmaak/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/schoonmaak/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/supermarkt/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/supermarkt/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/nieuws/voorkom-besmetting-via-een-voetgangerslicht/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/winkels/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/tags/zorg/</loc>
+    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://innocentry.github.io/coronatechnologie/categories/zorg/</loc>
     <lastmod>2020-04-20T13:04:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/beademingsapparaat/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/bestel-geteste-en-gecertificeerde-mondkapjes-bestellen/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/bezoekers-voor-zorginstellingen-geen-probleem/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/contact/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/creatief-ondernemen-drive-ins/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/de-strijd-tegen-het-tekort-aan-beademingsapparaten/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/een-veilige-manier-om-deuren-te-openen/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/fysiek-contact-met-een-anti-coronadeur/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/geen-overvolle-winkels/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/hoe-kan-je-mondkapjes-hergebruiken/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/hygi%C3%ABne/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/hygi%C3%ABne/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/maak-je-eigen-gezichtsmasker/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/maskers/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/maskers/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/met-schone-handen-naar-de-winkel/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/mondkapjes/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/mondkapjes/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/ondernemen/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/ondernemen/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/ouderen/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/reiniging/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/schone-winkelwagens-tijdens-je-supermarktbezoek/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/schoonmaak/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/schoonmaak/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/snorkelmaskers-oplossing-voor-tekort-aan-maskers/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/supermarkt/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/supermarkt/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/nieuws/voorkom-besmetting-via-een-voetgangerslicht/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/winkels/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/tags/zorg/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coronatechnologie.nl/categories/zorg/</loc>
-    <lastmod>2020-04-20T13:04:20+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
 </urlset>

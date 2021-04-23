@@ -2,84 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Corona Technologie</title>
-    <link>https://coronatechnologie.nl/categories/</link>
+    <link>https://innocentry.github.io/coronatechnologie/categories/</link>
     <description>Recent content in Categories on Corona Technologie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
-    
-	<atom:link href="https://coronatechnologie.nl/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate><atom:link href="https://innocentry.github.io/coronatechnologie/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>beademingsapparaat</title>
-      <link>https://coronatechnologie.nl/categories/beademingsapparaat/</link>
+      <link>https://innocentry.github.io/coronatechnologie/categories/beademingsapparaat/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/categories/beademingsapparaat/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/categories/beademingsapparaat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hygiëne</title>
-      <link>https://coronatechnologie.nl/categories/hygi%C3%ABne/</link>
+      <link>https://innocentry.github.io/coronatechnologie/categories/hygi%C3%ABne/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/categories/hygi%C3%ABne/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/categories/hygi%C3%ABne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maskers</title>
-      <link>https://coronatechnologie.nl/categories/maskers/</link>
+      <link>https://innocentry.github.io/coronatechnologie/categories/maskers/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/categories/maskers/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/categories/maskers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mondkapjes</title>
-      <link>https://coronatechnologie.nl/categories/mondkapjes/</link>
+      <link>https://innocentry.github.io/coronatechnologie/categories/mondkapjes/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/categories/mondkapjes/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/categories/mondkapjes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ondernemen</title>
-      <link>https://coronatechnologie.nl/categories/ondernemen/</link>
+      <link>https://innocentry.github.io/coronatechnologie/categories/ondernemen/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/categories/ondernemen/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/categories/ondernemen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>schoonmaak</title>
-      <link>https://coronatechnologie.nl/categories/schoonmaak/</link>
+      <link>https://innocentry.github.io/coronatechnologie/categories/schoonmaak/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/categories/schoonmaak/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/categories/schoonmaak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>supermarkt</title>
-      <link>https://coronatechnologie.nl/categories/supermarkt/</link>
+      <link>https://innocentry.github.io/coronatechnologie/categories/supermarkt/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/categories/supermarkt/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/categories/supermarkt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zorg</title>
-      <link>https://coronatechnologie.nl/categories/zorg/</link>
+      <link>https://innocentry.github.io/coronatechnologie/categories/zorg/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/categories/zorg/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/categories/zorg/</guid>
       <description></description>
     </item>
     

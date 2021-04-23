@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>schoonmaak on Corona Technologie</title>
-    <link>https://coronatechnologie.nl/categories/schoonmaak/</link>
+    <link>https://innocentry.github.io/coronatechnologie/categories/schoonmaak/</link>
     <description>Recent content in schoonmaak on Corona Technologie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate>
-    
-	<atom:link href="https://coronatechnologie.nl/categories/schoonmaak/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Apr 2020 13:04:20 +0200</lastBuildDate><atom:link href="https://innocentry.github.io/coronatechnologie/categories/schoonmaak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Een veilige manier om deuren te openen</title>
-      <link>https://coronatechnologie.nl/nieuws/een-veilige-manier-om-deuren-te-openen/</link>
+      <link>https://innocentry.github.io/coronatechnologie/nieuws/een-veilige-manier-om-deuren-te-openen/</link>
       <pubDate>Mon, 20 Apr 2020 13:04:20 +0200</pubDate>
       
-      <guid>https://coronatechnologie.nl/nieuws/een-veilige-manier-om-deuren-te-openen/</guid>
+      <guid>https://innocentry.github.io/coronatechnologie/nieuws/een-veilige-manier-om-deuren-te-openen/</guid>
       <description>Je ontkomt er niet aan om deuren te moeten openen die al dat niet besmet kunnen zijn met het coronavirus. Toch is er naast het gebruik van handschoenen, nog een veilige manier om deuren te openen.</description>
     </item>
     
